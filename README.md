@@ -2,8 +2,8 @@
 <br>
 <div>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 55%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 44%;" />
 </div>
 <br>
 
