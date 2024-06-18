@@ -1,9 +1,9 @@
-## Olá, eu sou Vinicius, estudante de Ciência da Computação - UFPE💻
+## Oii, eu sou Vinicius, estudante de Ciência da Computação - UFPE💻
 <br>
 <div>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=022Vinicius&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dark" alt="Linguagens mais usadas" style="width: 35%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dark" alt="Linguagens mais usadas" style="width: 45%;" />
 </div>
 <br>
 
