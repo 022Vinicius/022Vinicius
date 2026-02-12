@@ -1,8 +1,7 @@
 ## Oii, eu sou Vinicius, estudante de Ciência da Computação - UFPE 💻
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 55%;" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 44%;" />
 
 ---
 
