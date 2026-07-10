@@ -1,30 +1,67 @@
-## Oii, eu sou Vinicius, estudante de Ciência da Computação - UFPE 💻
+<h1 align="center">Olá! 👋 Eu sou Vinicius Gabriel</h1>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 45%;" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula&count_private=true&include_all_commits=true" alt="Linguagens mais usadas" style="width: 34%;" />
+<p align="center">
+🎓 Ciência da Computação • CIn/UFPE &nbsp; • &nbsp;
+💼 Software Engineer Intern &nbsp; • &nbsp;
+🚀 Backend • IA • Engenharia de Dados
+</p>
 
----
-
-### 🚀 Tecnologias
-
-<p align="left">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
+<p align="center">
+Sou estudante de Ciência da Computação na <b>UFPE</b> e atualmente atuo como <b>Software Engineer Intern</b>, desenvolvendo APIs, integrações e soluções backend utilizando <b>TypeScript</b>, <b>NestJS</b> e <b>PostgreSQL</b>.
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+## 📊 Estatísticas
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/022_vini)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gabriel-847588235/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-%23FF5722?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.cin.ufpe.br/~vgls/index.html/)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=022Vinicius&theme=dracula"/>
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=022Vinicius&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vinicius-gabriel-847588235/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/022_vini" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.cin.ufpe.br/~vgls/index.html/" target="_blank">
+<img src="https://img.shields.io/badge/-Portfólio-FF5722?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
