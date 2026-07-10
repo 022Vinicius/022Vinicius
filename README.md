@@ -1,9 +1,9 @@
-<h1 align="center">Olá! 👋 Eu sou Vinicius Gabriel</h1>
+<h1 align="center">Olá! Eu sou Vinicius Gabriel 👋</h1>
 
 <p align="center">
 🎓 Ciência da Computação • CIn/UFPE &nbsp; • &nbsp;
 💼 Software Engineer Intern &nbsp; • &nbsp;
-🚀 Backend • IA • Engenharia de Dados
+📊 Backend • Engenharia de Dados
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação na <b>UFPE</b> e atualmente atuo como 
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@ Sou estudante de Ciência da Computação na <b>UFPE</b> e atualmente atuo como 
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <p align="center">
 
@@ -46,7 +46,7 @@ Sou estudante de Ciência da Computação na <b>UFPE</b> e atualmente atuo como 
 
 ---
 
-## 🌎 Onde me encontrar
+##  Onde me encontrar
 
 <p align="center">
 
