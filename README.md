@@ -1,13 +1,13 @@
 <h1 align="center">Olá! Eu sou Vinicius Gabriel 👋</h1>
 
 <p align="center">
-🎓 Ciência da Computação • CIn/UFPE &nbsp; • &nbsp;
-💼 Software Engineer Intern &nbsp; • &nbsp;
-📊 Backend • Engenharia de Dados
+🎓 Computer Science • CIn/UFPE &nbsp; • &nbsp;
+💼 Software Engineering Intern &nbsp; • &nbsp;
+📊 Backend Engineering • Data Engineering
 </p>
 
 <p align="center">
-Sou estudante de Ciência da Computação na <b>UFPE</b> e atualmente atuo como <b>Software Engineer Intern</b>, desenvolvendo APIs, integrações e soluções backend utilizando <b>TypeScript</b>, <b>NestJS</b> e <b>PostgreSQL</b>.
+I am a Computer Science student at <b>UFPE</b> and currently work as a <b>Software Engineering Intern</b>, developing APIs, integrations, and backend solutions using <b>TypeScript</b>, <b>NestJS</b>, and <b>PostgreSQL</b>.
 </p>
 
 ---
