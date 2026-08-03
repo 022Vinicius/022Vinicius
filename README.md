@@ -20,10 +20,7 @@ I am a Computer Science student at <b>UFPE</b> and currently work as a <b>Softwa
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula&langs_count=8"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=022Vinicius&theme=dracula&hide_border=true"/>
-</p>
----
+
 
 ##  Tecnologias
 
