@@ -17,12 +17,12 @@ I am a Computer Science student at <b>UFPE</b> and currently work as a <b>Softwa
 <p align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=022Vinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=022Vinicius&layout=compact&theme=dracula&langs_count=8&count_private=true"/>
 </p>
 
+---
 
-
-##  Tecnologias
+## 🛠️ Tecnologias
 
 <p align="center">
 
@@ -42,7 +42,7 @@ I am a Computer Science student at <b>UFPE</b> and currently work as a <b>Softwa
 
 ---
 
-##  Onde me encontrar
+## 📫 Onde me encontrar
 
 <p align="center">
 
@@ -59,5 +59,3 @@ I am a Computer Science student at <b>UFPE</b> and currently work as a <b>Softwa
 </a>
 
 </p>
-
----
